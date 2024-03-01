@@ -1,2 +1,2 @@
-# Naive-Bayes
-Apply Naive Bayes model with a specific dataset，and predict the annual salary. Analyze the model based on the output. 
+# Annual Salary Prediction Model
+Design and train Naive Bayes model with a specific dataset. Use it to predict the annual salary. Analyze the model based on the output. 
